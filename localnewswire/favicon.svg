@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#1a1a2e"/>
+  <circle cx="32" cy="28" r="10" fill="none" stroke="#e63946" stroke-width="3"/>
+  <circle cx="32" cy="28" r="3" fill="#e63946"/>
+  <path d="M22 38 Q27 44 32 38 Q37 44 42 38" fill="none" stroke="#e63946" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="32" y="56" text-anchor="middle" font-family="system-ui" font-weight="700" font-size="9" fill="#fff">WIRE</text>
+</svg>
